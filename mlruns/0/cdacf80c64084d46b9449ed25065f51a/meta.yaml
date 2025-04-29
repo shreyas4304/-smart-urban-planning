@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/MLPROJECT/mlruns/0/cdacf80c64084d46b9449ed25065f51a/artifacts
+end_time: 1745946706296
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cdacf80c64084d46b9449ed25065f51a
+run_name: colorful-zebra-153
+run_uuid: cdacf80c64084d46b9449ed25065f51a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745946696434
+status: 3
+tags: []
+user_id: hp

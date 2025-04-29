@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/MLPROJECT/mlruns/0/052a6f24c71442ee9f0365664a8e7879/artifacts
+end_time: 1745946994222
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 052a6f24c71442ee9f0365664a8e7879
+run_name: suave-cod-555
+run_uuid: 052a6f24c71442ee9f0365664a8e7879
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745946985513
+status: 3
+tags: []
+user_id: hp

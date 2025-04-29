@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/MLPROJECT/mlruns/0/80e839dae7a144ba8bc6247ce2ba44e5/artifacts
+end_time: 1745946985375
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 80e839dae7a144ba8bc6247ce2ba44e5
+run_name: orderly-rook-534
+run_uuid: 80e839dae7a144ba8bc6247ce2ba44e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745946975114
+status: 3
+tags: []
+user_id: hp

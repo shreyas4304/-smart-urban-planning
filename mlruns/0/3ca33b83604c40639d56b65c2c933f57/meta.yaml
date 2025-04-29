@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/MLPROJECT/mlruns/0/3ca33b83604c40639d56b65c2c933f57/artifacts
+end_time: 1745865418275
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ca33b83604c40639d56b65c2c933f57
+run_name: bold-fawn-53
+run_uuid: 3ca33b83604c40639d56b65c2c933f57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745865404574
+status: 3
+tags: []
+user_id: hp

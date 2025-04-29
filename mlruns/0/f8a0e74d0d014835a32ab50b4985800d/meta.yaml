@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/MLPROJECT/mlruns/0/f8a0e74d0d014835a32ab50b4985800d/artifacts
+end_time: 1745947080942
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f8a0e74d0d014835a32ab50b4985800d
+run_name: clean-croc-520
+run_uuid: f8a0e74d0d014835a32ab50b4985800d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745947070933
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/MLPROJECT/mlruns/0/78e2bfae7e894aecbefd5300a1419745/artifacts
+end_time: 1745947087844
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 78e2bfae7e894aecbefd5300a1419745
+run_name: ambitious-bat-699
+run_uuid: 78e2bfae7e894aecbefd5300a1419745
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745947081077
+status: 3
+tags: []
+user_id: hp

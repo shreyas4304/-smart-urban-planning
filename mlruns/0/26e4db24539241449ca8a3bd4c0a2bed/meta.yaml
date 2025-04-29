@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/MLPROJECT/mlruns/0/26e4db24539241449ca8a3bd4c0a2bed/artifacts
+end_time: 1745946695593
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 26e4db24539241449ca8a3bd4c0a2bed
+run_name: casual-conch-962
+run_uuid: 26e4db24539241449ca8a3bd4c0a2bed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745946669013
+status: 3
+tags: []
+user_id: hp

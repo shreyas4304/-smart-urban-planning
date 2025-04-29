@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/MLPROJECT/mlruns/0/f1ea0217a95d4c8391bf44adff8cc03e/artifacts
+end_time: 1745865425011
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1ea0217a95d4c8391bf44adff8cc03e
+run_name: agreeable-whale-145
+run_uuid: f1ea0217a95d4c8391bf44adff8cc03e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745865418443
+status: 3
+tags: []
+user_id: hp

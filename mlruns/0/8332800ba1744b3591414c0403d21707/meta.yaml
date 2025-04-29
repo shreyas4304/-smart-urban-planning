@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/MLPROJECT/mlruns/0/8332800ba1744b3591414c0403d21707/artifacts
+end_time: 1745947703811
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8332800ba1744b3591414c0403d21707
+run_name: big-calf-297
+run_uuid: 8332800ba1744b3591414c0403d21707
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745947693451
+status: 3
+tags: []
+user_id: hp

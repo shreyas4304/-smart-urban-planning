@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/MLPROJECT/mlruns/0/366df5b8f4ca4160bfa93a1a3752a542/artifacts
+end_time: 1745947711528
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 366df5b8f4ca4160bfa93a1a3752a542
+run_name: shivering-fawn-682
+run_uuid: 366df5b8f4ca4160bfa93a1a3752a542
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745947703914
+status: 3
+tags: []
+user_id: hp
